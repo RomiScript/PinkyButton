@@ -27,7 +27,7 @@ JavaScript
 
 canvas-confetti (mediante CDN)
 
-💅 Estilo
+💅 Estilo: 
 El botón y el fondo están estilizados con un toque suave y alegre en tonos rosados. CSS simple pero con algo de shadow magic para que se sienta más real.
 
 📦 Librería utilizada
@@ -46,5 +46,3 @@ Edit
 ├── styles.css
 └── script.js
 
-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45627d4e-89cd-4824-8c89-7a95cd2cc822" />
