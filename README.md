@@ -38,9 +38,8 @@ El confetti se maneja con la librería canvas-confetti, importada por CDN. No re
 
 
 📁 Estructura del proyecto
-css
-Copy
-Edit
+
+
 📁 confetti-button/
 ├── index.html
 ├── styles.css
